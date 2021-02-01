@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="99725" started-at="2021-01-28T10:51:37 IST" finished-at="2021-01-28T10:53:17 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="99725" started-at="2021-01-28T10:51:37 IST" finished-at="2021-01-28T10:53:17 IST">
+      <class name="framework.appium.appiumTest">
+        <test-method status="PASS" signature="LunchDevice()[pri:0, instance:framework.appium.appiumTest@7cbd213e]" name="LunchDevice" is-config="true" duration-ms="38767" started-at="2021-01-28T10:51:37 IST" finished-at="2021-01-28T10:52:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LunchDevice -->
+        <test-method status="PASS" signature="TestCart()[pri:0, instance:framework.appium.appiumTest@7cbd213e]" name="TestCart" duration-ms="56839" started-at="2021-01-28T10:52:16 IST" finished-at="2021-01-28T10:53:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCart -->
+        <test-method status="PASS" signature="afterExecution()[pri:0, instance:framework.appium.appiumTest@7cbd213e]" name="afterExecution" is-config="true" duration-ms="4023" started-at="2021-01-28T10:53:13 IST" finished-at="2021-01-28T10:53:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterExecution -->
+      </class> <!-- framework.appium.appiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

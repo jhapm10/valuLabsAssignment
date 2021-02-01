@@ -1,0 +1,3 @@
+framework\appium\App.class
+framework\appium\capability.class
+resources\ExtentReporterNG.class
