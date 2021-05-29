@@ -7,7 +7,7 @@
         <methods>
           <include name="afterExecution"/>
           <include name="LunchDevice"/>
-          <include name="TestCart"/>
+          <include name="PositiveCheckoutFlow"/>
         </methods>
       </class> <!-- framework.appium.appiumTest -->
     </classes>
